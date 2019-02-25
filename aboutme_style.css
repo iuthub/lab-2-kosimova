@@ -1,0 +1,22 @@
+p{
+	color: rgb(60, 60, 60);
+}
+body{
+	background-color: #B5ABAB;
+}
+h4{
+	color:#008080;
+}
+h1{
+	font-family: "Times New Roman", Times serif;
+}
+h2.normal {
+	font-style: normal;
+} 
+h2 {
+	text-align: center;
+}
+h1{
+	text-align: center;
+	text-decoration-color: #000080;
+}
